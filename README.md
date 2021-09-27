@@ -3,7 +3,6 @@
 ## I'm a CS Student studying at IIITDMK!!
 
 <br />
----
 
 ### Languages and Tools:
 
